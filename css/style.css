@@ -1,0 +1,9 @@
+header{
+    width: auto;
+    height: 60px;
+    background-color: black;
+}
+header #logo{
+    text-align: center;
+    padding-top: 10px;
+}
